@@ -24,7 +24,7 @@ label {
     display: block;
 }
 input[type="number"] {
-    width: 150px;
+    width: 350px;
     height: 30px;
     font-size: 16px;
     padding: 5px;
@@ -48,6 +48,7 @@ button {
     color: #333;
     margin-top: 1em;
     cursor: pointer;
+    justify-content: center;
 }
 button:hover {
     background-color: #4CAF50;
